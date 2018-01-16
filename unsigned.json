@@ -1,0 +1,52 @@
+{
+  "sequences": [
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/2018/01/09/75125_1_10calif-mudslides_wg_1080p.mp4"
+        }
+      ]
+    },
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/2018/01/09/75125_1_10calif-mudslides_wg_240p.mp4"
+        }
+      ]
+    },
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/2018/01/09/75125_1_10calif-mudslides_wg_360p.mp4"
+        }
+      ]
+    },
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/2018/01/09/75125_1_10calif-mudslides_wg_480p.mp4"
+        }
+      ]
+    },
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/2018/01/09/75125_1_10calif-mudslides_wg_720p.mp4"
+        }
+      ]
+    },
+    {
+      "clips": [
+        {
+          "type": "source",
+          "path": "/video-media/captions/75125_1_10calif-mudslides_wg_240p_095cf5d6-0a97-43bf-5db7-b09718785d20.vtt"
+        }
+      ]
+    }
+  ]
+}
